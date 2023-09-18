@@ -617,7 +617,7 @@ header{
 .contact_section .contact_area .contact_right input{
 	margin: 22px 0px;
     	padding: 0.9em 1.3em;
-    	margin-bottom: 1.5em;
+    	
 	float: right;
 	outline: none;
     	width: 72%;
@@ -630,8 +630,7 @@ header{
     	border-radius: 5px;
 }
 .contact_section .contact_area .contact_right textarea{
- 	padding: 0.9em 1.3em;
-	
+ 	padding: 0.9em 1.3em;	
 	width: 72%;
 	min-height: 120px;
     	resize: none;
@@ -669,7 +668,6 @@ header{
     	font-weight: 400;
     	font-size: 15px;
     	letter-spacing: 1px;
-
     	border-radius: 4px;
     	float: right;
     	cursor: pointer;
