@@ -52,7 +52,7 @@ ul li{
 	height: 3px;
 	width: 10%;
 	left: 0px;
-    right: 0px;
+    	right: 0px;
 }
 .headingf{
 	position: relative;
@@ -65,7 +65,7 @@ ul li{
 	height: 3px;
 	width: 10%;
 	left: 0px;
-    right: 0px;
+   	right: 0px;
 }
 /* Common Code Ends */
 
@@ -108,7 +108,7 @@ header{
 	height: 100%;
 	background-image:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/banner.jpg);
 	background-position: center center;
-    min-height: 770px;
+    	min-height: 770px;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -124,11 +124,11 @@ header{
 }
 .intro h2{
 	margin-bottom: 16px;
-    color: #30c39e;
+    	color: #30c39e;
 	font-size: 65px;
-    font-weight: 800;
-    line-height: 78px;
-    letter-spacing: 3px;
+    	font-weight: 800;
+    	line-height: 78px;
+    	letter-spacing: 3px;
 	text-shadow: 0 2px 2px rgb(0 0 0 / 20%);
 }
 .intro h3{
@@ -144,16 +144,16 @@ header{
 	line-height: 40px;
 }
 .intro .btn{
-    margin: 1.5em 0.2em 0em 0em;
+    	margin: 1.5em 0.2em 0em 0em;
 	padding: 11px 35px;
-    background: none;
-    color: #fff;
-    border: 2px solid #fff;
+    	background: none;
+    	color: #fff;
+    	border: 2px solid #fff;
 	border-radius: 4px;
-    font-weight: 600;
-    font-size: 15px;
-    letter-spacing: 1px;
-    display: inline-block;
+    	font-weight: 600;
+    	font-size: 15px;
+    	letter-spacing: 1px;
+    	display: inline-block;
 	transition: 0.3s linear;
 	
 }
@@ -210,15 +210,15 @@ header{
 	color: #30c39e;
 }
 .dropdown{
-  position: relative;
-  display: inline-block;
+  	position: relative;
+  	display: inline-block;
 }
 .dropdown .dropdown_content{
-  display: none;
-  position: absolute;
-  background-color: #f9f9f9;
-  min-width: 200px;
-  z-index: 1;
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	min-width: 200px;
+	z-index: 1;
 }
 .dropdown .dropdown_content a{
 	color: #000;
@@ -231,7 +231,7 @@ header{
 	color: #30C39E;
 }
 .dropdown:hover .dropdown_content{
-  display: block;
+  	display: block;
 }
 /* Dropdown Ends */
 /* Nav Bar Ends */
@@ -342,14 +342,14 @@ header{
 }
 .exp_section .exp_card .exp-item{	
 	position: relative;
-    width: 100%;
-    min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px;
+    	width: 100%;
+    	min-height: 1px;
+  	padding-right: 15px;
+    	padding-left: 15px;
 }
 .exp_section .exp_card .exp-item img{
 	vertical-align: middle;
-    border-style: none;
+    	border-style: none;
 	width: auto;
 }
 .exp_section .exp_card .exp_info{
@@ -378,8 +378,8 @@ header{
 	font-size: 16px;
 	font-weight: 400;
 	line-height: 28px;
-    letter-spacing: .5px;
-    font-size: 16px;
+    	letter-spacing: .5px;
+    	font-size: 16px;
 	margin: 20px 20px;
 }
 /* Experience Section Ends */
@@ -391,18 +391,18 @@ header{
 	width: 100%;
 	height: 100%;
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/blogg.jpg);
-    min-height: 480px;
+   	min-height: 480px;
 	background-size: cover;
 	background-repeat: no-repeat;
 	position: relative;
 }
 .blog_section .blog_area{
 	margin: 40px auto;
-    width: 100%;
-    height: 120px;
-    position: absolute;
-    left: 115px;
-    top: 186px;
+    	width: 100%;
+    	height: 120px;
+    	position: absolute;
+    	left: 115px;
+    	top: 186px;
 }
 .blog_section .blog_area h4{
 	
@@ -510,35 +510,35 @@ header{
 	padding: 11px 35px;
 	color: #0a8ea0;
 	background: #fff;
-    border: 2px solid #fff;
-    border-radius: 4px;
-    font-weight: 600;
-    font-size: 15px;
-    letter-spacing: 1px;
-    display: inline-block;
+    	border: 2px solid #fff;
+   	border-radius: 4px;
+    	font-weight: 600;
+    	font-size: 15px;
+    	letter-spacing: 1px;
+    	display: inline-block;
 	transition: 0.3s linear;
 }
 .short_info .info_content .info_btn1:hover{
 	color: #fff;
 	background: #333;
-    border: 2px solid #333;
+    	border: 2px solid #333;
 }
 .short_info .info_content .info_btn2{
 	padding: 11px 35px;
 	color: #fff;
 	background: #333;
-    border: 2px solid #333;
-    border-radius: 4px;
-    font-weight: 600;
-    font-size: 15px;
-    letter-spacing: 1px;
-    display: inline-block;
+    	border: 2px solid #333;
+    	border-radius: 4px;
+    	font-weight: 600;
+    	font-size: 15px;
+    	letter-spacing: 1px;
+    	display: inline-block;
 	transition: 0.3s linear;
 }
 .short_info .info_content .info_btn2:hover{
 	color: #0a8ea0;
 	background: #fff;
-    border: 2px solid #fff;
+    	border: 2px solid #fff;
 }
 /* Short Info Section Ends */
 
@@ -577,16 +577,16 @@ header{
 }
 .contact_area .contact_left .gmap{
 	position: relative;
-    width: 100%;
-    min-height: 1px;
-    padding-right: 15px;
+    	width: 100%;
+    	min-height: 1px;
+    	padding-right: 15px;
 	margin-top: 20px;
 	box-sizing: border-box;
 }
 .contact_area .contact_left .gmap_iframe{
 	width: 75%;
-    min-height: 250px;
-    border: 5px solid #eee;
+    	min-height: 250px;
+    	border: 5px solid #eee;
 }
 .contact_section .contact_right{
 	margin-top: 80px;
@@ -616,69 +616,69 @@ header{
 }
 .contact_section .contact_area .contact_right input{
 	margin: 22px 0px;
-    padding: 0.9em 1.3em;
-    margin-bottom: 1.5em;
+    	padding: 0.9em 1.3em;
+    	margin-bottom: 1.5em;
 	float: right;
 	outline: none;
-    width: 72%;
-    font-size: 15px;
-    letter-spacing: 1px;
-    color: #888;
-    border: none;
-    border: 1px solid #ccc;
-    background: none;
-    border-radius: 5px;
+    	width: 72%;
+    	font-size: 15px;
+    	letter-spacing: 1px;
+    	color: #888;
+    	border: none;
+    	border: 1px solid #ccc;
+    	background: none;
+    	border-radius: 5px;
 }
 .contact_section .contact_area .contact_right textarea{
-    padding: 0.9em 1.3em;
-    margin-bottom: 1.5em;
+ 	padding: 0.9em 1.3em;
+	margin-bottom: 1.5em;
 	width: 72%;
 	min-height: 120px;
-    resize: none;
+    	resize: none;
 	float: right;
 	outline: none;
-    font-size: 15px;
-    letter-spacing: 1px;
-    color: #888;
-    border: none;
-    border: 1px solid #ccc;
-    background: none;
-    border-radius: 5px;
+  	font-size: 15px;
+    	letter-spacing: 1px;
+    	color: #888;
+    	border: none;
+    	border: 1px solid #ccc;
+    	background: none;
+    	border-radius: 5px;
 }
 .contact_section .contact_item textarea {
-    padding: 0.9em 1.3em;
-    margin-bottom: 1.5em;
+    	padding: 0.9em 1.3em;
+   	margin-bottom: 1.5em;
 	width: 72%;
 	min-height: 120px;
-    resize: none;
+    	resize: none;
 	float: right;
 	outline: none;
-    font-size: 15px;
-    letter-spacing: 1px;
-    color: #888;
-    border: none;
-    border: 1px solid #ccc;
-    background: none;
-    border-radius: 5px;
+    	font-size: 15px;
+    	letter-spacing: 1px;
+    	color: #888;
+    	border: none;
+    	border: 1px solid #ccc;
+    	background: none;
+    	border-radius: 5px;
 }
 .contact_section .contact_area .contact_right .sbtn{
 	padding: 11px 35px;
-    color: #fff;
-    background: #0a8ea0;
-    border: 2px solid #0a8ea0;
-    font-weight: 400;
-    font-size: 15px;
-    letter-spacing: 1px;
+    	color: #fff;
+	background: #0a8ea0;
+    	border: 2px solid #0a8ea0;
+    	font-weight: 400;
+    	font-size: 15px;
+    	letter-spacing: 1px;
 
-    border-radius: 4px;
-    float: right;
-    cursor: pointer;
+    	border-radius: 4px;
+    	float: right;
+    	cursor: pointer;
 	transition: 0.3s linear;
 }
 .contact_section .contact_area .contact_right .sbtn:hover{
 	color: #333;
 	background: #fff;
-    border: 2px solid #333;
+    	border: 2px solid #333;
 }
 /* Contact Section Ends */
 
@@ -691,13 +691,13 @@ footer{
 }
 footer .logo a{
 	margin: 0px 0px 20px 10px;
-    color: #999;
+    	color: #999;
 	height: 42px;
-    width: 42px;
-    font-size: 13px;
-    line-height: 42px;
-    background: #222;
-    border-radius: 2px;
+    	width: 42px;
+    	font-size: 13px;
+    	line-height: 42px;
+    	background: #222;
+    	border-radius: 2px;
 }
 footer p{
 	color: #999;
@@ -721,13 +721,13 @@ footer p a:hover{
 
 /* Jump Top Starts */
 .jump_top {
-    margin: 20px 0;
+    	margin: 20px 0;
 	color: #fff;
-    width: 28px;
-    height: 28px;
-    border: 1px solid rgba(102, 102, 102, 0.30);
-    line-height: 26px;
-    border-radius: 50%;
+    	width: 28px;
+    	height: 28px;
+    	border: 1px solid rgba(102, 102, 102, 0.30);
+    	line-height: 26px;
+    	border-radius: 50%;
 }
 /* Jump Top Ends */
 
