@@ -631,7 +631,7 @@ header{
 }
 .contact_section .contact_area .contact_right textarea{
  	padding: 0.9em 1.3em;
-	margin-bottom: 1.5em;
+	
 	width: 72%;
 	min-height: 120px;
     	resize: none;
@@ -649,7 +649,7 @@ header{
     	padding: 0.9em 1.3em;
    	margin-bottom: 1.5em;
 	width: 72%;
-	min-height: 120px;
+	min-height: 100px;
     	resize: none;
 	float: right;
 	outline: none;
