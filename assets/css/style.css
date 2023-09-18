@@ -338,7 +338,7 @@ header{
 }
 .exp_section .exp_card{
 	margin-top: 5em;
-	justify-content: space-between;
+	justify-content: center;
 }
 .exp_section .exp_card .exp-item{	
 	position: relative;
